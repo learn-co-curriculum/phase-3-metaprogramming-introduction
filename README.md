@@ -1,4 +1,4 @@
-# Introduction to Metaprogramming in Ruby
+# Introduction to Metaprogramming
 
 Ruby has impressive _metaprogramming_ capabilities. A traditional program is
 mainly code that manipulates a data structure and produces output, but
