@@ -8,12 +8,11 @@ tasks in a few minutes that may take hours to do in other languages. By cleverly
 planning your code and applying the techniques mentioned here, you’ll be able to
 write code that is DRYer, lighter, more intuitive and more scalable.
 
-In this section we'll be discussing and working through some metaprogramming
-concepts such as:
+In this section we'll be discussing and working through the following
+metaprogramming concepts:
 
 - Mass assignment
 - Keyword arguments
-- Creating custom errors and using them
 
 Ruby's metaprogramming features offer a lot of functionality. You could, in
 theory, write everything from scratch yourself, but doing that is very
